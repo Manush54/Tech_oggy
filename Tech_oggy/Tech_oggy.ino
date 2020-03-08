@@ -46,6 +46,6 @@ if(WiFi.status()==WL_CONNECTED)
   Serial.print(h);
   Serial.println("%");
   delay(2000);
-  String""
+  String = "example";
 }
 }
